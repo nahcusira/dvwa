@@ -1,4 +1,4 @@
-![1](https://github.com/nahcusira/dvwa/assets/87233531/a28de5fa-5830-4054-be46-eec26e383ff8)
+![image](https://github.com/nahcusira/dvwa/assets/87233531/433948a9-8715-4356-a3da-d479d33a47c6)
 
 192.168.87.131 is the IP address of the remote host.
 
