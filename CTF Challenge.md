@@ -1,4 +1,5 @@
 PHP Fairy
+
 Source code shows that we have to bypass two if conditions to get the flag. We know the `pass` variable. it's md5 of 
 "admin1674227342" so: $pass = "0e463854177790028825434984462555"; 
 First condition is this:
